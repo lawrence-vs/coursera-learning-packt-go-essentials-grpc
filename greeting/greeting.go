@@ -1,8 +1,6 @@
 package greeting
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func Greet(){
 	fmt.Println("Hello!")
